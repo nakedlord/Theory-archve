@@ -173,6 +173,9 @@ skip         — не переносить в theory archive
 - `03_CULTURE_AS_INSTRUCTIONS/VERSIONS/v1.1.md`
 - `03_CULTURE_AS_INSTRUCTIONS/VERSIONS/instruction_network_full.md`
 - `03_CULTURE_AS_INSTRUCTIONS/CASES/new_testament_instruction_network.md`
+- `03_CULTURE_AS_INSTRUCTIONS/CASES/mark_gospel_instruction_read.md`
+- `03_CULTURE_AS_INSTRUCTIONS/CASES/passion_narrative_agency_case.md`
+- `03_CULTURE_AS_INSTRUCTIONS/CASES/contradictions_and_instruction_layers.md`
 - mythologization patch and cases.
 
 ## Нужно перенести
@@ -193,15 +196,15 @@ skip         — не переносить в theory archive
 
 Перенесено:
 
-- New Testament as instruction network migration draft.
+- New Testament as instruction network migration draft;
+- Mark Gospel instruction read;
+- Passion narrative / agency case;
+- contradictions and instruction layers.
 
 Нужно ещё перенести:
 
-- анализ Евангелия от Марка;
-- narrative Passion / agency case;
-- contradictions and instruction layers;
 - historical rollback method;
-- неудобные детали как динамика сети;
+- неудобные детали как динамика сети отдельным файлом;
 - разные носители инструкции: текст / ритуал / институт.
 
 ---
@@ -237,6 +240,8 @@ skip         — не переносить в theory archive
 - `05_PNA/CANON.md`
 - `05_PNA/VERSIONS/pna_full.md`
 - `05_PNA/VERSIONS/r3_modes_pna.md`
+- `05_PNA/VERSIONS/sleep_imagination_reflection.md`
+- `05_PNA/VERSIONS/consciousness_flicker.md`
 - `HYPOTHESES/pna_as_delta_t_basis.md`
 - empirical links;
 - audit PNA/ΔT.
@@ -244,9 +249,9 @@ skip         — не переносить в theory archive
 ## Нужно перенести
 
 - дополнительные источники;
-- отдельный файл по consciousness flicker;
-- отдельный файл по сну, воображению, рефлексии;
-- проверить heart-like regulation как speculative или archive.
+- проверить heart-like regulation как speculative или archive;
+- отдельный файл по роли речи/нарратива в PNA/R3;
+- отдельный файл по mental simulation.
 
 ---
 
@@ -353,14 +358,20 @@ EAT про пятимерное пространство и запутаннос
 - `01_R_THEORY/PATCHES/recursive_choice_decoherence.md`
 - `05_PNA/VERSIONS/r3_modes_pna.md`
 - `03_CULTURE_AS_INSTRUCTIONS/CASES/new_testament_instruction_network.md`
+- `03_CULTURE_AS_INSTRUCTIONS/CASES/mark_gospel_instruction_read.md`
+- `03_CULTURE_AS_INSTRUCTIONS/CASES/passion_narrative_agency_case.md`
+- `03_CULTURE_AS_INSTRUCTIONS/CASES/contradictions_and_instruction_layers.md`
+- `05_PNA/VERSIONS/sleep_imagination_reflection.md`
+- `05_PNA/VERSIONS/consciousness_flicker.md`
 
 ## Next migration tasks
 
-- Create `03_CULTURE_AS_INSTRUCTIONS/CASES/mark_gospel_instruction_read.md`.
-- Create `03_CULTURE_AS_INSTRUCTIONS/CASES/passion_narrative_agency_case.md`.
-- Create `03_CULTURE_AS_INSTRUCTIONS/CASES/contradictions_and_instruction_layers.md`.
-- Create `05_PNA/VERSIONS/sleep_imagination_reflection.md`.
-- Create `05_PNA/VERSIONS/consciousness_flicker.md`.
+- Create `03_CULTURE_AS_INSTRUCTIONS/CASES/historical_rollback_method.md`.
+- Create `03_CULTURE_AS_INSTRUCTIONS/CASES/inconvenient_details_network_dynamics.md`.
+- Create `03_CULTURE_AS_INSTRUCTIONS/CASES/text_ritual_institution_carriers.md`.
+- Create `05_PNA/VERSIONS/mental_simulation.md`.
+- Create `05_PNA/VERSIONS/speech_narrative_r3.md`.
+- Create `06_BOUNDARY_SATURATION/FORMAL_MODEL/predictions_and_non_predictions.md`.
 
 ---
 
