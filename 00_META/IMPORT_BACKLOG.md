@@ -127,6 +127,9 @@ skip         — не переносить в theory archive
 
 - `02_SYNTAX/CANON.md`
 - `02_SYNTAX/VERSIONS/syntax_companion_architecture_v1.md`
+- `02_SYNTAX/VERSIONS/runtime_pipeline_full.md`
+- `02_SYNTAX/VERSIONS/validation_layer_full.md`
+- `02_SYNTAX/VERSIONS/error_architecture_full.md`
 - `02_SYNTAX/GOAL_MODULE.md`
 - `02_SYNTAX/PATCHES/` v1.9–v4.9 key patches
 - `00_META/MIGRATION_MODE.md`
@@ -159,14 +162,14 @@ skip         — не переносить в theory archive
 
 Статус: partial
 
-Уже перенесены ключевые патчи, но нужно проверить, не пропущены:
+Уже перенесены ключевые патчи, runtime pipeline, validation layer и error architecture.
 
-- runtime pipeline;
-- validation layer;
+Нужно проверить, не пропущены:
+
 - operator registry full spec;
 - drift protocol full spec;
 - complexity passport;
-- error classes before E11.
+- error classes before E11 from the earliest SynTax versions.
 
 ---
 
@@ -233,6 +236,7 @@ skip         — не переносить в theory archive
 - `04_MEAT/VERSIONS/v0.2.md`
 - `04_MEAT/VERSIONS/meat_full.md`
 - `04_MEAT/VERSIONS/mccr_recovery_draft.md`
+- `04_MEAT/CASES/meme_synthesis_cases.md`
 - basic metrics;
 - mythologized person case;
 - political slogan case.
@@ -240,7 +244,7 @@ skip         — не переносить в theory archive
 ## Нужно перенести
 
 - MCCR still needs source verification;
-- дополнительные кейсы синтеза мемов;
+- concrete cases of meme synthesis;
 - связь с культурой как инструкциями уже есть, но требует сверки с исходным чатом.
 
 ---
@@ -286,11 +290,11 @@ skip         — не переносить в theory archive
 - `FORMAL_MODEL/predictions_and_non_predictions.md`
 - `FORMAL_MODEL/page_like_behavior.md`
 - `FORMAL_MODEL/redshift_like_boundary_degradation.md`
+- `FORMAL_MODEL/dimension_check_Cb_Idot.md`
 
 ## Нужно перенести
 
 - distinction between analogy and physical claim can be expanded;
-- dimension check Cb / Idot;
 - source verification for all physical claims.
 
 ---
@@ -393,20 +397,25 @@ EAT про пятимерное пространство и запутаннос
 - `06_BOUNDARY_SATURATION/FORMAL_MODEL/predictions_and_non_predictions.md`
 - `06_BOUNDARY_SATURATION/FORMAL_MODEL/page_like_behavior.md`
 - `06_BOUNDARY_SATURATION/FORMAL_MODEL/redshift_like_boundary_degradation.md`
+- `06_BOUNDARY_SATURATION/FORMAL_MODEL/dimension_check_Cb_Idot.md`
 - `01_R_THEORY/ARCHAEOLOGY/late_acheulean_transfer.md`
 - `01_R_THEORY/ARCHAEOLOGY/cultural_pulsation.md`
 - `01_R_THEORY/ARCHAEOLOGY/brain_size_steps.md`
 - `01_R_THEORY/ARCHAEOLOGY/independent_inventions.md`
 - `01_R_THEORY/ARCHAEOLOGY/migration_cold_pressure.md`
 - `01_R_THEORY/ARCHAEOLOGY/death_symbolism.md`
+- `02_SYNTAX/VERSIONS/runtime_pipeline_full.md`
+- `02_SYNTAX/VERSIONS/validation_layer_full.md`
+- `02_SYNTAX/VERSIONS/error_architecture_full.md`
+- `04_MEAT/CASES/meme_synthesis_cases.md`
 
 ## Next migration tasks
 
-- Create `02_SYNTAX/VERSIONS/runtime_pipeline_full.md`.
-- Create `02_SYNTAX/VERSIONS/validation_layer_full.md`.
-- Create `02_SYNTAX/VERSIONS/error_architecture_full.md`.
-- Create `04_MEAT/CASES/meme_synthesis_cases.md`.
-- Create `06_BOUNDARY_SATURATION/FORMAL_MODEL/dimension_check_Cb_Idot.md`.
+- Create `02_SYNTAX/VERSIONS/operator_registry_full.md`.
+- Create `02_SYNTAX/VERSIONS/drift_protocol_full.md`.
+- Create `02_SYNTAX/VERSIONS/complexity_passport_full.md`.
+- Create `04_MEAT/CASES/ritual_metric_read.md`.
+- Create `04_MEAT/CASES/cultural_archetype_metric_read.md`.
 
 ---
 
