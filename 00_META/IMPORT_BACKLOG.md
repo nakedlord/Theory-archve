@@ -45,6 +45,8 @@ skip         — не переносить в theory archive
 - `01_R_THEORY/ARCHAEOLOGY/lomekwi.md`
 - `01_R_THEORY/ARCHAEOLOGY/oldowan.md`
 - `01_R_THEORY/ARCHAEOLOGY/acheulean.md`
+- `01_R_THEORY/ARCHAEOLOGY/fire_camp_childhood.md`
+- `01_R_THEORY/ARCHAEOLOGY/sapiens_neanderthals_networks.md`
 - `01_R_THEORY/CASES/ochre_symbol_to_concept.md`
 - `01_R_THEORY/CASES/fire_symbol_to_concept.md`
 - `01_R_THEORY/CASES/burial_symbol_to_concept.md`
@@ -67,11 +69,13 @@ skip         — не переносить в theory archive
 
 Статус: partial
 
-Перенесены первые подробные файлы:
+Перенесены подробные файлы:
 
 - Lomekwi;
 - Oldowan;
-- Acheulean.
+- Acheulean;
+- fire/camp/childhood;
+- sapiens/neanderthals network stabilization.
 
 Нужно ещё перенести подробно:
 
@@ -79,11 +83,10 @@ skip         — не переносить в theory archive
 - культурная пульсация;
 - независимые изобретения;
 - brain size steps 500 -> 900 -> 1400 cc;
-- огонь, лагерь, детство;
-- миграции и холод;
-- символика смерти;
-- демография и стабилизация инноваций;
-- сравнение sapiens / neanderthals.
+- миграции и холод отдельным файлом;
+- символика смерти отдельным файлом;
+- демография и стабилизация инноваций можно расширить через evidence/case;
+- сравнение sapiens / neanderthals требует source verification.
 
 ### 1.3 Q-R3
 
@@ -210,13 +213,14 @@ skip         — не переносить в theory archive
 - `04_MEAT/CANON.md`
 - `04_MEAT/VERSIONS/v0.2.md`
 - `04_MEAT/VERSIONS/meat_full.md`
+- `04_MEAT/VERSIONS/mccr_recovery_draft.md`
 - basic metrics;
 - mythologized person case;
 - political slogan case.
 
 ## Нужно перенести
 
-- MCCR if still active;
+- MCCR still needs source verification;
 - дополнительные кейсы синтеза мемов;
 - связь с культурой как инструкциями уже есть, но требует сверки с исходным чатом.
 
@@ -251,18 +255,16 @@ skip         — не переносить в theory archive
 ## Уже перенесено
 
 - `06_BOUNDARY_SATURATION/CANON.md`
+- `06_BOUNDARY_SATURATION/VERSIONS/m5_black_hole_full_notes.md`
 - `FORMAL_MODEL/threshold_E_over_R.md`
 - `FORMAL_MODEL/compatibility_with_GR.md`
 
 ## Нужно перенести
 
-- полный чат M5 / black hole;
-- максимальная плотность;
-- чёрная дыра как горячий плотный шар vs boundary saturation correction;
-- испарение через растяжение вселенной as intuition;
 - predictions and non-predictions;
-- Page-like behavior;
-- distinction between analogy and physical claim.
+- Page-like behavior отдельным файлом;
+- redshift-like boundary degradation;
+- distinction between analogy and physical claim can be expanded.
 
 ---
 
@@ -270,17 +272,23 @@ skip         — не переносить в theory archive
 
 ## 7.1 EAT
 
-Статус: archive / maybe separate
+Статус: archived as isolated node
+
+Файл:
+
+- `99_ARCHIVE/EAT_entanglement_axis_theory.md`
 
 EAT про пятимерное пространство и запутанность. Не смешивать с MEAT.
 
-Нужно решить: отдельный модуль или archive.
-
 ## 7.2 MCCR
 
-Статус: needs source
+Статус: recovery draft / needs source
 
-Упоминается в старом чате MEAT/PNA/MCCR. Нужно восстановить содержание.
+Файл:
+
+- `04_MEAT/VERSIONS/mccr_recovery_draft.md`
+
+Нужно восстановить содержание из старого чата или конспекта.
 
 ## 7.3 Symbol -> concept v0.2
 
@@ -332,12 +340,20 @@ EAT про пятимерное пространство и запутаннос
 - `05_PNA/VERSIONS/pna_full.md`
 - `04_MEAT/VERSIONS/meat_full.md`
 
-## Priority 3
+## Priority 3 — partial done
 
-- Recover MCCR.
-- Decide EAT status.
-- Add Boundary Saturation full M5 notes.
-- Create detailed archaeology files for fire/camp/childhood and sapiens/neanderthals.
+- `04_MEAT/VERSIONS/mccr_recovery_draft.md`
+- `99_ARCHIVE/EAT_entanglement_axis_theory.md`
+- `06_BOUNDARY_SATURATION/VERSIONS/m5_black_hole_full_notes.md`
+- `01_R_THEORY/ARCHAEOLOGY/fire_camp_childhood.md`
+- `01_R_THEORY/ARCHAEOLOGY/sapiens_neanderthals_networks.md`
+
+## Next migration tasks
+
+- Create `01_R_THEORY/PATCHES/q_r3_system.md` or version file for Q-R3.
+- Create `01_R_THEORY/PATCHES/recursive_choice_decoherence.md`.
+- Create `05_PNA/VERSIONS/r3_modes_pna.md`.
+- Create `03_CULTURE_AS_INSTRUCTIONS/CASES/new_testament_instruction_network.md`.
 
 ---
 
