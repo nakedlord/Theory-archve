@@ -176,6 +176,9 @@ skip         — не переносить в theory archive
 - `03_CULTURE_AS_INSTRUCTIONS/CASES/mark_gospel_instruction_read.md`
 - `03_CULTURE_AS_INSTRUCTIONS/CASES/passion_narrative_agency_case.md`
 - `03_CULTURE_AS_INSTRUCTIONS/CASES/contradictions_and_instruction_layers.md`
+- `03_CULTURE_AS_INSTRUCTIONS/CASES/historical_rollback_method.md`
+- `03_CULTURE_AS_INSTRUCTIONS/CASES/inconvenient_details_network_dynamics.md`
+- `03_CULTURE_AS_INSTRUCTIONS/CASES/text_ritual_institution_carriers.md`
 - mythologization patch and cases.
 
 ## Нужно перенести
@@ -199,13 +202,17 @@ skip         — не переносить в theory archive
 - New Testament as instruction network migration draft;
 - Mark Gospel instruction read;
 - Passion narrative / agency case;
-- contradictions and instruction layers.
+- contradictions and instruction layers;
+- historical rollback method;
+- inconvenient details network dynamics;
+- text / ritual / institution carriers.
 
 Нужно ещё перенести:
 
-- historical rollback method;
-- неудобные детали как динамика сети отдельным файлом;
-- разные носители инструкции: текст / ритуал / институт.
+- detailed Gospel of Mark episode reads;
+- historical rollback applied to concrete passages;
+- specific inconvenient-detail cases;
+- institution formation from text and ritual.
 
 ---
 
@@ -242,6 +249,8 @@ skip         — не переносить в theory archive
 - `05_PNA/VERSIONS/r3_modes_pna.md`
 - `05_PNA/VERSIONS/sleep_imagination_reflection.md`
 - `05_PNA/VERSIONS/consciousness_flicker.md`
+- `05_PNA/VERSIONS/mental_simulation.md`
+- `05_PNA/VERSIONS/speech_narrative_r3.md`
 - `HYPOTHESES/pna_as_delta_t_basis.md`
 - empirical links;
 - audit PNA/ΔT.
@@ -250,8 +259,8 @@ skip         — не переносить в theory archive
 
 - дополнительные источники;
 - проверить heart-like regulation как speculative или archive;
-- отдельный файл по роли речи/нарратива в PNA/R3;
-- отдельный файл по mental simulation.
+- отдельный файл по развитию рабочей памяти у детей;
+- отдельный файл по attention switching / error monitoring.
 
 ---
 
@@ -265,10 +274,10 @@ skip         — не переносить в theory archive
 - `06_BOUNDARY_SATURATION/VERSIONS/m5_black_hole_full_notes.md`
 - `FORMAL_MODEL/threshold_E_over_R.md`
 - `FORMAL_MODEL/compatibility_with_GR.md`
+- `FORMAL_MODEL/predictions_and_non_predictions.md`
 
 ## Нужно перенести
 
-- predictions and non-predictions;
 - Page-like behavior отдельным файлом;
 - redshift-like boundary degradation;
 - distinction between analogy and physical claim can be expanded.
@@ -361,17 +370,22 @@ EAT про пятимерное пространство и запутаннос
 - `03_CULTURE_AS_INSTRUCTIONS/CASES/mark_gospel_instruction_read.md`
 - `03_CULTURE_AS_INSTRUCTIONS/CASES/passion_narrative_agency_case.md`
 - `03_CULTURE_AS_INSTRUCTIONS/CASES/contradictions_and_instruction_layers.md`
+- `03_CULTURE_AS_INSTRUCTIONS/CASES/historical_rollback_method.md`
+- `03_CULTURE_AS_INSTRUCTIONS/CASES/inconvenient_details_network_dynamics.md`
+- `03_CULTURE_AS_INSTRUCTIONS/CASES/text_ritual_institution_carriers.md`
 - `05_PNA/VERSIONS/sleep_imagination_reflection.md`
 - `05_PNA/VERSIONS/consciousness_flicker.md`
+- `05_PNA/VERSIONS/mental_simulation.md`
+- `05_PNA/VERSIONS/speech_narrative_r3.md`
+- `06_BOUNDARY_SATURATION/FORMAL_MODEL/predictions_and_non_predictions.md`
 
 ## Next migration tasks
 
-- Create `03_CULTURE_AS_INSTRUCTIONS/CASES/historical_rollback_method.md`.
-- Create `03_CULTURE_AS_INSTRUCTIONS/CASES/inconvenient_details_network_dynamics.md`.
-- Create `03_CULTURE_AS_INSTRUCTIONS/CASES/text_ritual_institution_carriers.md`.
-- Create `05_PNA/VERSIONS/mental_simulation.md`.
-- Create `05_PNA/VERSIONS/speech_narrative_r3.md`.
-- Create `06_BOUNDARY_SATURATION/FORMAL_MODEL/predictions_and_non_predictions.md`.
+- Create `06_BOUNDARY_SATURATION/FORMAL_MODEL/page_like_behavior.md`.
+- Create `06_BOUNDARY_SATURATION/FORMAL_MODEL/redshift_like_boundary_degradation.md`.
+- Create `01_R_THEORY/ARCHAEOLOGY/late_acheulean_transfer.md`.
+- Create `01_R_THEORY/ARCHAEOLOGY/cultural_pulsation.md`.
+- Create `01_R_THEORY/ARCHAEOLOGY/brain_size_steps.md`.
 
 ---
 
