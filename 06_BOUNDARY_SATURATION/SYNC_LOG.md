@@ -22,4 +22,10 @@
 boundary saturation candidate occurs when dimensionless compactness approaches the horizon threshold
 ```
 
-Следующий шаг: создать `FORMAL_MODEL/compatibility_with_GR.md` и `FORMAL_MODEL/predictions_and_non_predictions.md`.
+Создан compatibility note:
+
+- `FORMAL_MODEL/compatibility_with_GR.md`
+
+Суть compatibility note: Boundary Saturation пока не является альтернативой общей теории относительности. Модель может работать только как speculative interpretive layer, если остаётся совместимой с compactness threshold.
+
+Следующий шаг: создать `FORMAL_MODEL/predictions_and_non_predictions.md` и `FORMAL_MODEL/redshift_like_boundary_degradation.md`.
