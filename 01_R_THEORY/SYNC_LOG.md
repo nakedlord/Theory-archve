@@ -51,4 +51,14 @@ Evidence-layer разложен на отдельные файлы:
 - `EVIDENCE/scaffolding_causal_development.md`
 - `EVIDENCE/network_stabilization_innovation.md`
 
-Следующий шаг: создать археологическую карту `CASES/ARCHAEOLOGY_MAP.md` и patch candidate `shadows_of_R3`.
+Добавлена археологическая карта:
+
+- `CASES/ARCHAEOLOGY_MAP.md`
+
+Создан новый candidate-патч:
+
+- `PATCHES/2026-04-25_shadows_of_R3.md`
+
+Суть патча: ритуал или символ могут быть не готовой причинной теорией и не бессмысленным остатком, а способом стабилизировать поведение в зоне неопределённости.
+
+Следующий шаг: проверить `shadows_of_R3` на погребении, охре, табу и ритуалах удачи перед возможным canon update.
