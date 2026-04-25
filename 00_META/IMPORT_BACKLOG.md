@@ -40,6 +40,8 @@ skip         — не переносить в theory archive
 - `01_R_THEORY/VERSIONS/v3.2.md`
 - `01_R_THEORY/PATCHES/2026-04-25_symbol_to_concept.md`
 - `01_R_THEORY/PATCHES/2026-04-25_shadows_of_R3.md`
+- `01_R_THEORY/PATCHES/q_r3_system.md`
+- `01_R_THEORY/PATCHES/recursive_choice_decoherence.md`
 - `01_R_THEORY/CASES/ARCHAEOLOGY_MAP.md`
 - `01_R_THEORY/ARCHAEOLOGY/README.md`
 - `01_R_THEORY/ARCHAEOLOGY/lomekwi.md`
@@ -90,30 +92,23 @@ skip         — не переносить в theory archive
 
 ### 1.3 Q-R3
 
-Статус: not started
+Статус: transferred as migration draft
 
-Нужно перенести:
+Файл:
 
-- Question-driven Recursive Thinking System;
-- Tension Buffer;
-- Question Generator;
-- Bad Question Filter;
-- Answer Suppression Gate;
-- Meta-Question Graph;
-- QSI, RDR, TPC;
-- REFINE / SHIFT / META-SHIFT.
+- `01_R_THEORY/PATCHES/q_r3_system.md`
+
+Осталось: сверить с исходным Q-R3 v1.0 при возможности.
 
 ### 1.4 Recursive choice with decoherence
 
-Статус: partial
+Статус: transferred as migration draft
 
-Нужно перенести:
+Файл:
 
-- ΔT–R–Decoherence;
-- стабилизация решения;
-- конкурирующие операторы;
-- условия декогеренции выбора;
-- связь с открытыми квантовыми системами как формальной аналогией.
+- `01_R_THEORY/PATCHES/recursive_choice_decoherence.md`
+
+Осталось: сверить с исходным чатом при возможности.
 
 ---
 
@@ -129,6 +124,7 @@ skip         — не переносить в theory archive
 - `02_SYNTAX/PATCHES/` v1.9–v4.9 key patches
 - `00_META/MIGRATION_MODE.md`
 - `00_META/CANDIDATE_TO_CANON_CHECKLIST.md`
+- `00_META/MIGRATION_STATUS_RULES.md`
 
 ## Нужно перенести
 
@@ -176,6 +172,7 @@ skip         — не переносить в theory archive
 - `03_CULTURE_AS_INSTRUCTIONS/CANON.md`
 - `03_CULTURE_AS_INSTRUCTIONS/VERSIONS/v1.1.md`
 - `03_CULTURE_AS_INSTRUCTIONS/VERSIONS/instruction_network_full.md`
+- `03_CULTURE_AS_INSTRUCTIONS/CASES/new_testament_instruction_network.md`
 - mythologization patch and cases.
 
 ## Нужно перенести
@@ -194,11 +191,16 @@ skip         — не переносить в theory archive
 
 Статус: partial
 
-Нужно перенести:
+Перенесено:
 
-- связь с религиями;
-- Новый Завет как кейс;
-- анализ исторической личности и мифа на конкретных текстах;
+- New Testament as instruction network migration draft.
+
+Нужно ещё перенести:
+
+- анализ Евангелия от Марка;
+- narrative Passion / agency case;
+- contradictions and instruction layers;
+- historical rollback method;
 - неудобные детали как динамика сети;
 - разные носители инструкции: текст / ритуал / институт.
 
@@ -234,6 +236,7 @@ skip         — не переносить в theory archive
 
 - `05_PNA/CANON.md`
 - `05_PNA/VERSIONS/pna_full.md`
+- `05_PNA/VERSIONS/r3_modes_pna.md`
 - `HYPOTHESES/pna_as_delta_t_basis.md`
 - empirical links;
 - audit PNA/ΔT.
@@ -242,7 +245,6 @@ skip         — не переносить в theory archive
 
 - дополнительные источники;
 - отдельный файл по consciousness flicker;
-- отдельный файл по R3.1/R3.2/R3.3;
 - отдельный файл по сну, воображению, рефлексии;
 - проверить heart-like regulation как speculative или archive.
 
@@ -347,13 +349,18 @@ EAT про пятимерное пространство и запутаннос
 - `06_BOUNDARY_SATURATION/VERSIONS/m5_black_hole_full_notes.md`
 - `01_R_THEORY/ARCHAEOLOGY/fire_camp_childhood.md`
 - `01_R_THEORY/ARCHAEOLOGY/sapiens_neanderthals_networks.md`
+- `01_R_THEORY/PATCHES/q_r3_system.md`
+- `01_R_THEORY/PATCHES/recursive_choice_decoherence.md`
+- `05_PNA/VERSIONS/r3_modes_pna.md`
+- `03_CULTURE_AS_INSTRUCTIONS/CASES/new_testament_instruction_network.md`
 
 ## Next migration tasks
 
-- Create `01_R_THEORY/PATCHES/q_r3_system.md` or version file for Q-R3.
-- Create `01_R_THEORY/PATCHES/recursive_choice_decoherence.md`.
-- Create `05_PNA/VERSIONS/r3_modes_pna.md`.
-- Create `03_CULTURE_AS_INSTRUCTIONS/CASES/new_testament_instruction_network.md`.
+- Create `03_CULTURE_AS_INSTRUCTIONS/CASES/mark_gospel_instruction_read.md`.
+- Create `03_CULTURE_AS_INSTRUCTIONS/CASES/passion_narrative_agency_case.md`.
+- Create `03_CULTURE_AS_INSTRUCTIONS/CASES/contradictions_and_instruction_layers.md`.
+- Create `05_PNA/VERSIONS/sleep_imagination_reflection.md`.
+- Create `05_PNA/VERSIONS/consciousness_flicker.md`.
 
 ---
 
