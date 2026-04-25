@@ -32,6 +32,10 @@
 - `EMPIRICAL_LINKS/temporal_integration_window.md`
 - `EMPIRICAL_LINKS/predictive_processing.md`
 
-Промежуточный вывод: PNA остаётся draft-гипотезой, но теперь имеет маршрут проверки через рабочую память, внимание, временную интеграцию и predictive processing.
+Создан audit:
 
-Следующий шаг: создать PNA audit, где разделить поддержанные мосты, свободные интерпретации и неподтверждённые участки.
+- `AUDIT_PNA_DELTA_T.md`
+
+Промежуточный вывод: PNA остаётся draft-гипотезой. Audit разделяет source-supported bridges, interpretive hypothesis и то, что нельзя считать доказанным.
+
+Следующий шаг: добавить источники по mental simulation, развитию рабочей памяти у детей и роли речи/нарратива в удержании причинных цепочек.
