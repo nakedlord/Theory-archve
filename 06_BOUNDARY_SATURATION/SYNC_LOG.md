@@ -10,4 +10,16 @@
 - `STATUS.md`
 - `WORKSPACE.md`
 
-Следующий шаг: формализовать порог E/R и отделить физические утверждения от аналогий.
+Создан первый formal draft:
+
+- `FORMAL_MODEL/threshold_E_over_R.md`
+
+Суть draft: Boundary Saturation не заменяет известный компактностный критерий, а пытается переописать горизонтальный режим как насыщение границы.
+
+Безопасная формулировка:
+
+```text
+boundary saturation candidate occurs when dimensionless compactness approaches the horizon threshold
+```
+
+Следующий шаг: создать `FORMAL_MODEL/compatibility_with_GR.md` и `FORMAL_MODEL/predictions_and_non_predictions.md`.
