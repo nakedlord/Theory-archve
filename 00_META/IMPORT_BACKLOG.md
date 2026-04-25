@@ -130,6 +130,9 @@ skip         — не переносить в theory archive
 - `02_SYNTAX/VERSIONS/runtime_pipeline_full.md`
 - `02_SYNTAX/VERSIONS/validation_layer_full.md`
 - `02_SYNTAX/VERSIONS/error_architecture_full.md`
+- `02_SYNTAX/VERSIONS/operator_registry_full.md`
+- `02_SYNTAX/VERSIONS/drift_protocol_full.md`
+- `02_SYNTAX/VERSIONS/complexity_passport_full.md`
 - `02_SYNTAX/GOAL_MODULE.md`
 - `02_SYNTAX/PATCHES/` v1.9–v4.9 key patches
 - `00_META/MIGRATION_MODE.md`
@@ -162,14 +165,13 @@ skip         — не переносить в theory archive
 
 Статус: partial
 
-Уже перенесены ключевые патчи, runtime pipeline, validation layer и error architecture.
+Уже перенесены ключевые патчи, runtime pipeline, validation layer, error architecture, operator registry, drift protocol и complexity governance.
 
 Нужно проверить, не пропущены:
 
-- operator registry full spec;
-- drift protocol full spec;
-- complexity passport;
-- error classes before E11 from the earliest SynTax versions.
+- error classes before E11 from the earliest SynTax versions;
+- compact portable `Syntax.md` version;
+- activation prompt if нужен как archived/private note.
 
 ---
 
@@ -237,6 +239,8 @@ skip         — не переносить в theory archive
 - `04_MEAT/VERSIONS/meat_full.md`
 - `04_MEAT/VERSIONS/mccr_recovery_draft.md`
 - `04_MEAT/CASES/meme_synthesis_cases.md`
+- `04_MEAT/CASES/ritual_metric_read.md`
+- `04_MEAT/CASES/cultural_archetype_metric_read.md`
 - basic metrics;
 - mythologized person case;
 - political slogan case.
@@ -407,15 +411,20 @@ EAT про пятимерное пространство и запутаннос
 - `02_SYNTAX/VERSIONS/runtime_pipeline_full.md`
 - `02_SYNTAX/VERSIONS/validation_layer_full.md`
 - `02_SYNTAX/VERSIONS/error_architecture_full.md`
+- `02_SYNTAX/VERSIONS/operator_registry_full.md`
+- `02_SYNTAX/VERSIONS/drift_protocol_full.md`
+- `02_SYNTAX/VERSIONS/complexity_passport_full.md`
 - `04_MEAT/CASES/meme_synthesis_cases.md`
+- `04_MEAT/CASES/ritual_metric_read.md`
+- `04_MEAT/CASES/cultural_archetype_metric_read.md`
 
 ## Next migration tasks
 
-- Create `02_SYNTAX/VERSIONS/operator_registry_full.md`.
-- Create `02_SYNTAX/VERSIONS/drift_protocol_full.md`.
-- Create `02_SYNTAX/VERSIONS/complexity_passport_full.md`.
-- Create `04_MEAT/CASES/ritual_metric_read.md`.
-- Create `04_MEAT/CASES/cultural_archetype_metric_read.md`.
+- Create `02_SYNTAX/VERSIONS/portable_syntax_md.md`.
+- Create `02_SYNTAX/VERSIONS/activation_prompt_archive.md`.
+- Create `01_R_THEORY/ARCHAEOLOGY/demography_innovation_stabilization.md`.
+- Create `01_R_THEORY/ARCHAEOLOGY/archaeology_falsification_map.md`.
+- Create `06_BOUNDARY_SATURATION/FORMAL_MODEL/analogy_vs_physical_claim.md`.
 
 ---
 
