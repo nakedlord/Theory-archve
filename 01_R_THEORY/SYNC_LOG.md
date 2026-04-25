@@ -40,4 +40,15 @@
 
 Итоговое различение v3.2: символ фиксирует значимость, понятие фиксирует переносимое различение. Понятие можно читать как сжатую инструкцию различения.
 
-Следующий шаг: развернуть модуль `03_CULTURE_AS_INSTRUCTIONS` и оформить патч о мифологизации как изменении весов передачи в сети инструкций.
+Добавлен evidence-layer из Drive-документа:
+
+- `EVIDENCE/2026-04-23_empirical_verification.md`
+
+Evidence-layer разложен на отдельные файлы:
+
+- `EVIDENCE/brain_size_cultural_scaffolding.md`
+- `EVIDENCE/stress_metabolic_mismatch.md`
+- `EVIDENCE/scaffolding_causal_development.md`
+- `EVIDENCE/network_stabilization_innovation.md`
+
+Следующий шаг: создать археологическую карту `CASES/ARCHAEOLOGY_MAP.md` и patch candidate `shadows_of_R3`.
