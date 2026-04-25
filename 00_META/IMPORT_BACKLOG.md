@@ -41,6 +41,10 @@ skip         — не переносить в theory archive
 - `01_R_THEORY/PATCHES/2026-04-25_symbol_to_concept.md`
 - `01_R_THEORY/PATCHES/2026-04-25_shadows_of_R3.md`
 - `01_R_THEORY/CASES/ARCHAEOLOGY_MAP.md`
+- `01_R_THEORY/ARCHAEOLOGY/README.md`
+- `01_R_THEORY/ARCHAEOLOGY/lomekwi.md`
+- `01_R_THEORY/ARCHAEOLOGY/oldowan.md`
+- `01_R_THEORY/ARCHAEOLOGY/acheulean.md`
 - `01_R_THEORY/CASES/ochre_symbol_to_concept.md`
 - `01_R_THEORY/CASES/fire_symbol_to_concept.md`
 - `01_R_THEORY/CASES/burial_symbol_to_concept.md`
@@ -63,12 +67,15 @@ skip         — не переносить в theory archive
 
 Статус: partial
 
-Нужно перенести подробно:
+Перенесены первые подробные файлы:
 
 - Lomekwi;
 - Oldowan;
-- Acheulean early/middle/late;
-- поздний Acheulean и перенос принципа рубила;
+- Acheulean.
+
+Нужно ещё перенести подробно:
+
+- поздний Acheulean и перенос принципа рубила отдельным файлом;
 - культурная пульсация;
 - независимые изобретения;
 - brain size steps 500 -> 900 -> 1400 cc;
@@ -202,18 +209,16 @@ skip         — не переносить в theory archive
 
 - `04_MEAT/CANON.md`
 - `04_MEAT/VERSIONS/v0.2.md`
+- `04_MEAT/VERSIONS/meat_full.md`
 - basic metrics;
 - mythologized person case;
 - political slogan case.
 
 ## Нужно перенести
 
-- старый канон MEAT из чата MEAT/PNA/MCCR;
-- различение MEAT и EAT;
-- меметическая запутанность как аналогия, не физика;
-- синтез мемов и мутации;
 - MCCR if still active;
-- связь с культурой как инструкциями.
+- дополнительные кейсы синтеза мемов;
+- связь с культурой как инструкциями уже есть, но требует сверки с исходным чатом.
 
 ---
 
@@ -224,20 +229,18 @@ skip         — не переносить в theory archive
 ## Уже перенесено
 
 - `05_PNA/CANON.md`
+- `05_PNA/VERSIONS/pna_full.md`
 - `HYPOTHESES/pna_as_delta_t_basis.md`
 - empirical links;
 - audit PNA/ΔT.
 
 ## Нужно перенести
 
-- PNA как окно восприятия реальности 2–5 секунд;
-- амплитуда и когерентность;
-- возможная heart-like regulation of activation frequency;
-- связь с consciousness flicker;
-- связь с R3.1/R3.2/R3.3;
-- сон, воображение, рефлексия;
-- связь с рабочей памятью и вниманием;
-- источники.
+- дополнительные источники;
+- отдельный файл по consciousness flicker;
+- отдельный файл по R3.1/R3.2/R3.3;
+- отдельный файл по сну, воображению, рефлексии;
+- проверить heart-like regulation как speculative или archive.
 
 ---
 
@@ -321,17 +324,20 @@ EAT про пятимерное пространство и запутаннос
 - `02_SYNTAX/GOAL_MODULE.md`
 - `03_CULTURE_AS_INSTRUCTIONS/VERSIONS/instruction_network_full.md`
 
-## Priority 2
+## Priority 2 — mostly done as migration drafts
 
-- Create `01_R_THEORY/ARCHAEOLOGY/` detailed files for Lomekwi, Oldowan, Acheulean.
-- Create `05_PNA/VERSIONS/pna_full.md`
-- Create `04_MEAT/VERSIONS/meat_full.md`
+- `01_R_THEORY/ARCHAEOLOGY/lomekwi.md`
+- `01_R_THEORY/ARCHAEOLOGY/oldowan.md`
+- `01_R_THEORY/ARCHAEOLOGY/acheulean.md`
+- `05_PNA/VERSIONS/pna_full.md`
+- `04_MEAT/VERSIONS/meat_full.md`
 
 ## Priority 3
 
 - Recover MCCR.
 - Decide EAT status.
 - Add Boundary Saturation full M5 notes.
+- Create detailed archaeology files for fire/camp/childhood and sapiens/neanderthals.
 
 ---
 
