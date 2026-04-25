@@ -47,6 +47,9 @@ skip         — не переносить в theory archive
 - `01_R_THEORY/ARCHAEOLOGY/lomekwi.md`
 - `01_R_THEORY/ARCHAEOLOGY/oldowan.md`
 - `01_R_THEORY/ARCHAEOLOGY/acheulean.md`
+- `01_R_THEORY/ARCHAEOLOGY/late_acheulean_transfer.md`
+- `01_R_THEORY/ARCHAEOLOGY/cultural_pulsation.md`
+- `01_R_THEORY/ARCHAEOLOGY/brain_size_steps.md`
 - `01_R_THEORY/ARCHAEOLOGY/fire_camp_childhood.md`
 - `01_R_THEORY/ARCHAEOLOGY/sapiens_neanderthals_networks.md`
 - `01_R_THEORY/CASES/ochre_symbol_to_concept.md`
@@ -76,15 +79,15 @@ skip         — не переносить в theory archive
 - Lomekwi;
 - Oldowan;
 - Acheulean;
+- late Acheulean transfer;
+- cultural pulsation;
+- brain size steps;
 - fire/camp/childhood;
 - sapiens/neanderthals network stabilization.
 
 Нужно ещё перенести подробно:
 
-- поздний Acheulean и перенос принципа рубила отдельным файлом;
-- культурная пульсация;
 - независимые изобретения;
-- brain size steps 500 -> 900 -> 1400 cc;
 - миграции и холод отдельным файлом;
 - символика смерти отдельным файлом;
 - демография и стабилизация инноваций можно расширить через evidence/case;
@@ -275,12 +278,14 @@ skip         — не переносить в theory archive
 - `FORMAL_MODEL/threshold_E_over_R.md`
 - `FORMAL_MODEL/compatibility_with_GR.md`
 - `FORMAL_MODEL/predictions_and_non_predictions.md`
+- `FORMAL_MODEL/page_like_behavior.md`
+- `FORMAL_MODEL/redshift_like_boundary_degradation.md`
 
 ## Нужно перенести
 
-- Page-like behavior отдельным файлом;
-- redshift-like boundary degradation;
-- distinction between analogy and physical claim can be expanded.
+- distinction between analogy and physical claim can be expanded;
+- dimension check Cb / Idot;
+- source verification for all physical claims.
 
 ---
 
@@ -378,14 +383,19 @@ EAT про пятимерное пространство и запутаннос
 - `05_PNA/VERSIONS/mental_simulation.md`
 - `05_PNA/VERSIONS/speech_narrative_r3.md`
 - `06_BOUNDARY_SATURATION/FORMAL_MODEL/predictions_and_non_predictions.md`
+- `06_BOUNDARY_SATURATION/FORMAL_MODEL/page_like_behavior.md`
+- `06_BOUNDARY_SATURATION/FORMAL_MODEL/redshift_like_boundary_degradation.md`
+- `01_R_THEORY/ARCHAEOLOGY/late_acheulean_transfer.md`
+- `01_R_THEORY/ARCHAEOLOGY/cultural_pulsation.md`
+- `01_R_THEORY/ARCHAEOLOGY/brain_size_steps.md`
 
 ## Next migration tasks
 
-- Create `06_BOUNDARY_SATURATION/FORMAL_MODEL/page_like_behavior.md`.
-- Create `06_BOUNDARY_SATURATION/FORMAL_MODEL/redshift_like_boundary_degradation.md`.
-- Create `01_R_THEORY/ARCHAEOLOGY/late_acheulean_transfer.md`.
-- Create `01_R_THEORY/ARCHAEOLOGY/cultural_pulsation.md`.
-- Create `01_R_THEORY/ARCHAEOLOGY/brain_size_steps.md`.
+- Create `01_R_THEORY/ARCHAEOLOGY/independent_inventions.md`.
+- Create `01_R_THEORY/ARCHAEOLOGY/migration_cold_pressure.md`.
+- Create `01_R_THEORY/ARCHAEOLOGY/death_symbolism.md`.
+- Create `05_PNA/VERSIONS/working_memory_child_development.md`.
+- Create `05_PNA/VERSIONS/attention_switching_error_monitoring.md`.
 
 ---
 
