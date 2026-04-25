@@ -36,6 +36,7 @@ skip         — не переносить в theory archive
 ## Уже перенесено
 
 - `01_R_THEORY/CANON.md`
+- `01_R_THEORY/VERSIONS/v3.1_full.md`
 - `01_R_THEORY/VERSIONS/v3.2.md`
 - `01_R_THEORY/PATCHES/2026-04-25_symbol_to_concept.md`
 - `01_R_THEORY/PATCHES/2026-04-25_shadows_of_R3.md`
@@ -50,19 +51,13 @@ skip         — не переносить в theory archive
 
 ### 1.1 Полный канон R-теории до v3.1
 
-Статус: partial
+Статус: transferred as migration draft
 
-Нужно восстановить подробно:
+Файл:
 
-- R0/R1/R2/R3;
-- ΔT;
-- сон / воображение / рефлексия / осознанность как уровни вынесенного обучения;
-- R3-A / R3-B / R3-C;
-- юридический аффект как collapse R0;
-- дисциплина как R2/R3 -> R1 -> R0;
-- декогеренция выбора;
-- переход символ -> понятие;
-- связь с инструктивной культурой.
+- `01_R_THEORY/VERSIONS/v3.1_full.md`
+
+Осталось: сверить с исходными чатами при возможности.
 
 ### 1.2 Антропогенез и история артефактов
 
@@ -119,6 +114,8 @@ skip         — не переносить в theory archive
 ## Уже перенесено
 
 - `02_SYNTAX/CANON.md`
+- `02_SYNTAX/VERSIONS/syntax_companion_architecture_v1.md`
+- `02_SYNTAX/GOAL_MODULE.md`
 - `02_SYNTAX/PATCHES/` v1.9–v4.9 key patches
 - `00_META/MIGRATION_MODE.md`
 - `00_META/CANDIDATE_TO_CANON_CHECKLIST.md`
@@ -127,31 +124,23 @@ skip         — не переносить в theory archive
 
 ### 2.1 Full SynTax Companion Architecture v1.0
 
-Статус: partial
+Статус: transferred as migration draft
 
-Нужно восстановить:
+Файл:
 
-- Pure Engine / Agent Shell;
-- Autonomous Idea Pressure Loop;
-- Idea Bank;
-- You-Model + Style Policy;
-- status protocol;
-- SYNC cycle;
-- portable version / Syntax.md;
-- activation prompt.
+- `02_SYNTAX/VERSIONS/syntax_companion_architecture_v1.md`
+
+Осталось: сверить с исходным чатом SynTax при возможности.
 
 ### 2.2 Goal Module
 
-Статус: not started as separate file
+Статус: transferred as migration draft
 
-Нужно перенести:
+Файл:
 
-- G0/G1/G2/G3;
-- Goal Card;
-- Session Link;
-- Goal State;
-- statuses Active/Background/Blocked/Dormant/Done/Killed;
-- rules for significant dialogues.
+- `02_SYNTAX/GOAL_MODULE.md`
+
+Осталось: сверить с исходным чатом SynTax при возможности.
 
 ### 2.3 Full patch history
 
@@ -176,19 +165,32 @@ skip         — не переносить в theory archive
 
 - `03_CULTURE_AS_INSTRUCTIONS/CANON.md`
 - `03_CULTURE_AS_INSTRUCTIONS/VERSIONS/v1.1.md`
+- `03_CULTURE_AS_INSTRUCTIONS/VERSIONS/instruction_network_full.md`
 - mythologization patch and cases.
 
 ## Нужно перенести
 
-- культура как распределённая во времени нейросеть инструкций;
-- агенты, тексты, ритуалы, артефакты, институты как узлы;
-- отсутствие фиксированного ядра и периферии;
-- использование/вес связи как динамика центра;
-- историческая личность после смерти как узел;
-- неудобные детали: игнорирование / переобъяснение / ослабление;
-- миф как упрощение агентности;
-- интерпретации мифа в зависимости от задач времени;
-- связь с религиями и Новым Заветом как кейс.
+### 3.1 Full instruction network
+
+Статус: transferred as migration draft
+
+Файл:
+
+- `03_CULTURE_AS_INSTRUCTIONS/VERSIONS/instruction_network_full.md`
+
+Осталось: сверить с исходными чатами и разложить на patch/case/evidence при необходимости.
+
+### 3.2 Remaining culture cases
+
+Статус: partial
+
+Нужно перенести:
+
+- связь с религиями;
+- Новый Завет как кейс;
+- анализ исторической личности и мифа на конкретных текстах;
+- неудобные детали как динамика сети;
+- разные носители инструкции: текст / ритуал / институт.
 
 ---
 
@@ -312,12 +314,12 @@ EAT про пятимерное пространство и запутаннос
 
 # 9. Immediate migration tasks
 
-## Priority 1
+## Priority 1 — done as migration drafts
 
-- Create `01_R_THEORY/VERSIONS/v3.1_full.md`
-- Create `02_SYNTAX/VERSIONS/syntax_companion_architecture_v1.md`
-- Create `02_SYNTAX/GOAL_MODULE.md`
-- Create `03_CULTURE_AS_INSTRUCTIONS/VERSIONS/instruction_network_full.md`
+- `01_R_THEORY/VERSIONS/v3.1_full.md`
+- `02_SYNTAX/VERSIONS/syntax_companion_architecture_v1.md`
+- `02_SYNTAX/GOAL_MODULE.md`
+- `03_CULTURE_AS_INSTRUCTIONS/VERSIONS/instruction_network_full.md`
 
 ## Priority 2
 
