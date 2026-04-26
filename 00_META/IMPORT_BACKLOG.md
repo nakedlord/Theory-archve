@@ -53,6 +53,8 @@ skip         — не переносить в theory archive
 - `01_R_THEORY/ARCHAEOLOGY/independent_inventions.md`
 - `01_R_THEORY/ARCHAEOLOGY/migration_cold_pressure.md`
 - `01_R_THEORY/ARCHAEOLOGY/death_symbolism.md`
+- `01_R_THEORY/ARCHAEOLOGY/demography_innovation_stabilization.md`
+- `01_R_THEORY/ARCHAEOLOGY/archaeology_falsification_map.md`
 - `01_R_THEORY/ARCHAEOLOGY/fire_camp_childhood.md`
 - `01_R_THEORY/ARCHAEOLOGY/sapiens_neanderthals_networks.md`
 - `01_R_THEORY/CASES/ochre_symbol_to_concept.md`
@@ -75,7 +77,7 @@ skip         — не переносить в theory archive
 
 ### 1.2 Антропогенез и история артефактов
 
-Статус: partial
+Статус: mostly transferred as migration drafts
 
 Перенесены подробные файлы:
 
@@ -88,14 +90,16 @@ skip         — не переносить в theory archive
 - brain size steps;
 - migration/cold pressure;
 - death symbolism;
+- demography and innovation stabilization;
+- archaeology falsification map;
 - fire/camp/childhood;
 - sapiens/neanderthals network stabilization.
 
-Нужно ещё перенести подробно:
+Осталось:
 
-- демография и стабилизация инноваций можно расширить через evidence/case;
-- сравнение sapiens / neanderthals требует source verification;
-- отдельная карта фальсификации археологических маркеров.
+- source verification;
+- конкретные источники по каждому археологическому узлу;
+- возможные отдельные кейсы по позднему Acheulean и погребениям.
 
 ### 1.3 Q-R3
 
@@ -133,6 +137,8 @@ skip         — не переносить в theory archive
 - `02_SYNTAX/VERSIONS/operator_registry_full.md`
 - `02_SYNTAX/VERSIONS/drift_protocol_full.md`
 - `02_SYNTAX/VERSIONS/complexity_passport_full.md`
+- `02_SYNTAX/VERSIONS/portable_syntax_md.md`
+- `02_SYNTAX/VERSIONS/activation_prompt_archive.md`
 - `02_SYNTAX/GOAL_MODULE.md`
 - `02_SYNTAX/PATCHES/` v1.9–v4.9 key patches
 - `00_META/MIGRATION_MODE.md`
@@ -165,13 +171,12 @@ skip         — не переносить в theory archive
 
 Статус: partial
 
-Уже перенесены ключевые патчи, runtime pipeline, validation layer, error architecture, operator registry, drift protocol и complexity governance.
+Уже перенесены ключевые патчи, runtime pipeline, validation layer, error architecture, operator registry, drift protocol, complexity governance, portable syntax draft and activation prompt archive.
 
 Нужно проверить, не пропущены:
 
 - error classes before E11 from the earliest SynTax versions;
-- compact portable `Syntax.md` version;
-- activation prompt if нужен как archived/private note.
+- source verification against original SynTax chat.
 
 ---
 
@@ -408,23 +413,27 @@ EAT про пятимерное пространство и запутаннос
 - `01_R_THEORY/ARCHAEOLOGY/independent_inventions.md`
 - `01_R_THEORY/ARCHAEOLOGY/migration_cold_pressure.md`
 - `01_R_THEORY/ARCHAEOLOGY/death_symbolism.md`
+- `01_R_THEORY/ARCHAEOLOGY/demography_innovation_stabilization.md`
+- `01_R_THEORY/ARCHAEOLOGY/archaeology_falsification_map.md`
 - `02_SYNTAX/VERSIONS/runtime_pipeline_full.md`
 - `02_SYNTAX/VERSIONS/validation_layer_full.md`
 - `02_SYNTAX/VERSIONS/error_architecture_full.md`
 - `02_SYNTAX/VERSIONS/operator_registry_full.md`
 - `02_SYNTAX/VERSIONS/drift_protocol_full.md`
 - `02_SYNTAX/VERSIONS/complexity_passport_full.md`
+- `02_SYNTAX/VERSIONS/portable_syntax_md.md`
+- `02_SYNTAX/VERSIONS/activation_prompt_archive.md`
 - `04_MEAT/CASES/meme_synthesis_cases.md`
 - `04_MEAT/CASES/ritual_metric_read.md`
 - `04_MEAT/CASES/cultural_archetype_metric_read.md`
 
 ## Next migration tasks
 
-- Create `02_SYNTAX/VERSIONS/portable_syntax_md.md`.
-- Create `02_SYNTAX/VERSIONS/activation_prompt_archive.md`.
-- Create `01_R_THEORY/ARCHAEOLOGY/demography_innovation_stabilization.md`.
-- Create `01_R_THEORY/ARCHAEOLOGY/archaeology_falsification_map.md`.
 - Create `06_BOUNDARY_SATURATION/FORMAL_MODEL/analogy_vs_physical_claim.md`.
+- Create `02_SYNTAX/VERSIONS/early_error_classes_archive.md`.
+- Create `03_CULTURE_AS_INSTRUCTIONS/CASES/institution_formation_from_text_ritual.md`.
+- Create `04_MEAT/CASES/concrete_meme_synthesis_examples.md`.
+- Create `05_PNA/VERSIONS/heart_like_regulation_archive.md`.
 
 ---
 
