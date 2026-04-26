@@ -65,61 +65,10 @@ skip         — не переносить в theory archive
 
 ## Нужно перенести
 
-### 1.1 Полный канон R-теории до v3.1
-
-Статус: transferred as migration draft
-
-Файл:
-
-- `01_R_THEORY/VERSIONS/v3.1_full.md`
-
-Осталось: сверить с исходными чатами при возможности.
-
-### 1.2 Антропогенез и история артефактов
-
-Статус: mostly transferred as migration drafts
-
-Перенесены подробные файлы:
-
-- Lomekwi;
-- Oldowan;
-- Acheulean;
-- late Acheulean transfer;
-- cultural pulsation;
-- independent inventions;
-- brain size steps;
-- migration/cold pressure;
-- death symbolism;
-- demography and innovation stabilization;
-- archaeology falsification map;
-- fire/camp/childhood;
-- sapiens/neanderthals network stabilization.
-
-Осталось:
-
-- source verification;
+- source verification по археологическим файлам;
 - конкретные источники по каждому археологическому узлу;
-- возможные отдельные кейсы по позднему Acheulean и погребениям.
-
-### 1.3 Q-R3
-
-Статус: transferred as migration draft
-
-Файл:
-
-- `01_R_THEORY/PATCHES/q_r3_system.md`
-
-Осталось: сверить с исходным Q-R3 v1.0 при возможности.
-
-### 1.4 Recursive choice with decoherence
-
-Статус: transferred as migration draft
-
-Файл:
-
-- `01_R_THEORY/PATCHES/recursive_choice_decoherence.md`
-
-Осталось: сверить с исходным чатом при возможности.
+- возможные отдельные кейсы по позднему Acheulean и погребениям;
+- сверить Q-R3 и recursive choice/decoherence с исходными чатами.
 
 ---
 
@@ -139,6 +88,7 @@ skip         — не переносить в theory archive
 - `02_SYNTAX/VERSIONS/complexity_passport_full.md`
 - `02_SYNTAX/VERSIONS/portable_syntax_md.md`
 - `02_SYNTAX/VERSIONS/activation_prompt_archive.md`
+- `02_SYNTAX/VERSIONS/early_error_classes_archive.md`
 - `02_SYNTAX/GOAL_MODULE.md`
 - `02_SYNTAX/PATCHES/` v1.9–v4.9 key patches
 - `00_META/MIGRATION_MODE.md`
@@ -147,36 +97,9 @@ skip         — не переносить в theory archive
 
 ## Нужно перенести
 
-### 2.1 Full SynTax Companion Architecture v1.0
-
-Статус: transferred as migration draft
-
-Файл:
-
-- `02_SYNTAX/VERSIONS/syntax_companion_architecture_v1.md`
-
-Осталось: сверить с исходным чатом SynTax при возможности.
-
-### 2.2 Goal Module
-
-Статус: transferred as migration draft
-
-Файл:
-
-- `02_SYNTAX/GOAL_MODULE.md`
-
-Осталось: сверить с исходным чатом SynTax при возможности.
-
-### 2.3 Full patch history
-
-Статус: partial
-
-Уже перенесены ключевые патчи, runtime pipeline, validation layer, error architecture, operator registry, drift protocol, complexity governance, portable syntax draft and activation prompt archive.
-
-Нужно проверить, не пропущены:
-
-- error classes before E11 from the earliest SynTax versions;
-- source verification against original SynTax chat.
+- source verification against original SynTax chat;
+- проверить ранние error classes до E11;
+- при наличии исходника — восстановить компактный `Syntax.md` дословнее.
 
 ---
 
@@ -196,40 +119,15 @@ skip         — не переносить в theory archive
 - `03_CULTURE_AS_INSTRUCTIONS/CASES/historical_rollback_method.md`
 - `03_CULTURE_AS_INSTRUCTIONS/CASES/inconvenient_details_network_dynamics.md`
 - `03_CULTURE_AS_INSTRUCTIONS/CASES/text_ritual_institution_carriers.md`
+- `03_CULTURE_AS_INSTRUCTIONS/CASES/institution_formation_from_text_ritual.md`
 - mythologization patch and cases.
 
 ## Нужно перенести
 
-### 3.1 Full instruction network
-
-Статус: transferred as migration draft
-
-Файл:
-
-- `03_CULTURE_AS_INSTRUCTIONS/VERSIONS/instruction_network_full.md`
-
-Осталось: сверить с исходными чатами и разложить на patch/case/evidence при необходимости.
-
-### 3.2 Remaining culture cases
-
-Статус: partial
-
-Перенесено:
-
-- New Testament as instruction network migration draft;
-- Mark Gospel instruction read;
-- Passion narrative / agency case;
-- contradictions and instruction layers;
-- historical rollback method;
-- inconvenient details network dynamics;
-- text / ritual / institution carriers.
-
-Нужно ещё перенести:
-
 - detailed Gospel of Mark episode reads;
 - historical rollback applied to concrete passages;
 - specific inconvenient-detail cases;
-- institution formation from text and ritual.
+- сверка с исходными чатами по Новому Завету.
 
 ---
 
@@ -246,6 +144,7 @@ skip         — не переносить в theory archive
 - `04_MEAT/CASES/meme_synthesis_cases.md`
 - `04_MEAT/CASES/ritual_metric_read.md`
 - `04_MEAT/CASES/cultural_archetype_metric_read.md`
+- `04_MEAT/CASES/concrete_meme_synthesis_examples.md`
 - basic metrics;
 - mythologized person case;
 - political slogan case.
@@ -253,8 +152,8 @@ skip         — не переносить в theory archive
 ## Нужно перенести
 
 - MCCR still needs source verification;
-- concrete cases of meme synthesis;
-- связь с культурой как инструкциями уже есть, но требует сверки с исходным чатом.
+- concrete source cases of meme synthesis;
+- сверить MEAT/PNA/MCCR исходный чат.
 
 ---
 
@@ -273,6 +172,7 @@ skip         — не переносить в theory archive
 - `05_PNA/VERSIONS/speech_narrative_r3.md`
 - `05_PNA/VERSIONS/working_memory_child_development.md`
 - `05_PNA/VERSIONS/attention_switching_error_monitoring.md`
+- `05_PNA/VERSIONS/heart_like_regulation_archive.md`
 - `HYPOTHESES/pna_as_delta_t_basis.md`
 - empirical links;
 - audit PNA/ΔT.
@@ -280,9 +180,8 @@ skip         — не переносить в theory archive
 ## Нужно перенести
 
 - дополнительные источники;
-- проверить heart-like regulation как speculative или archive;
-- отдельный файл по attention sampling / neural oscillations if needed;
-- source verification for child development and error monitoring.
+- attention sampling / neural oscillations if needed;
+- source verification for child development, error monitoring and heart-like archive.
 
 ---
 
@@ -300,11 +199,12 @@ skip         — не переносить в theory archive
 - `FORMAL_MODEL/page_like_behavior.md`
 - `FORMAL_MODEL/redshift_like_boundary_degradation.md`
 - `FORMAL_MODEL/dimension_check_Cb_Idot.md`
+- `FORMAL_MODEL/analogy_vs_physical_claim.md`
 
 ## Нужно перенести
 
-- distinction between analogy and physical claim can be expanded;
-- source verification for all physical claims.
+- source verification for all physical claims;
+- possible future split: physical anchors / analogies / speculative layer.
 
 ---
 
@@ -344,7 +244,7 @@ EAT про пятимерное пространство и запутаннос
 
 Не переносить автоматически в `Theory-archve`, кроме случаев, когда используется как кейс инструктивной культуры, обучения, скаффолдинга или SynTax.
 
-## Видимые блоки
+Видимые блоки:
 
 - FLY ZONE methodology;
 - GYMKiDs marketing and audience research;
@@ -357,83 +257,50 @@ EAT про пятимерное пространство и запутаннос
 - family day / retention analysis;
 - quiz for RSYa.
 
-## Решение
-
-Создать отдельный репозиторий или отдельную Google Drive базу знаний, не смешивать с theory archive.
+Решение: создать отдельный репозиторий или отдельную Google Drive базу знаний, не смешивать с theory archive.
 
 ---
 
-# 9. Immediate migration tasks
+# 9. Migration status
 
 ## Priority 1 — done as migration drafts
 
-- `01_R_THEORY/VERSIONS/v3.1_full.md`
-- `02_SYNTAX/VERSIONS/syntax_companion_architecture_v1.md`
-- `02_SYNTAX/GOAL_MODULE.md`
-- `03_CULTURE_AS_INSTRUCTIONS/VERSIONS/instruction_network_full.md`
+- R v3.1 full;
+- SynTax Companion v1;
+- Goal Module;
+- Culture instruction network full.
 
 ## Priority 2 — mostly done as migration drafts
 
-- `01_R_THEORY/ARCHAEOLOGY/lomekwi.md`
-- `01_R_THEORY/ARCHAEOLOGY/oldowan.md`
-- `01_R_THEORY/ARCHAEOLOGY/acheulean.md`
-- `05_PNA/VERSIONS/pna_full.md`
-- `04_MEAT/VERSIONS/meat_full.md`
+- Lomekwi;
+- Oldowan;
+- Acheulean;
+- PNA full;
+- MEAT full.
 
-## Priority 3 — partial done
+## Priority 3 — broadly migrated as drafts
 
-- `04_MEAT/VERSIONS/mccr_recovery_draft.md`
-- `99_ARCHIVE/EAT_entanglement_axis_theory.md`
-- `06_BOUNDARY_SATURATION/VERSIONS/m5_black_hole_full_notes.md`
-- `01_R_THEORY/ARCHAEOLOGY/fire_camp_childhood.md`
-- `01_R_THEORY/ARCHAEOLOGY/sapiens_neanderthals_networks.md`
-- `01_R_THEORY/PATCHES/q_r3_system.md`
-- `01_R_THEORY/PATCHES/recursive_choice_decoherence.md`
-- `05_PNA/VERSIONS/r3_modes_pna.md`
-- `03_CULTURE_AS_INSTRUCTIONS/CASES/new_testament_instruction_network.md`
-- `03_CULTURE_AS_INSTRUCTIONS/CASES/mark_gospel_instruction_read.md`
-- `03_CULTURE_AS_INSTRUCTIONS/CASES/passion_narrative_agency_case.md`
-- `03_CULTURE_AS_INSTRUCTIONS/CASES/contradictions_and_instruction_layers.md`
-- `03_CULTURE_AS_INSTRUCTIONS/CASES/historical_rollback_method.md`
-- `03_CULTURE_AS_INSTRUCTIONS/CASES/inconvenient_details_network_dynamics.md`
-- `03_CULTURE_AS_INSTRUCTIONS/CASES/text_ritual_institution_carriers.md`
-- `05_PNA/VERSIONS/sleep_imagination_reflection.md`
-- `05_PNA/VERSIONS/consciousness_flicker.md`
-- `05_PNA/VERSIONS/mental_simulation.md`
-- `05_PNA/VERSIONS/speech_narrative_r3.md`
-- `05_PNA/VERSIONS/working_memory_child_development.md`
-- `05_PNA/VERSIONS/attention_switching_error_monitoring.md`
-- `06_BOUNDARY_SATURATION/FORMAL_MODEL/predictions_and_non_predictions.md`
-- `06_BOUNDARY_SATURATION/FORMAL_MODEL/page_like_behavior.md`
-- `06_BOUNDARY_SATURATION/FORMAL_MODEL/redshift_like_boundary_degradation.md`
-- `06_BOUNDARY_SATURATION/FORMAL_MODEL/dimension_check_Cb_Idot.md`
-- `01_R_THEORY/ARCHAEOLOGY/late_acheulean_transfer.md`
-- `01_R_THEORY/ARCHAEOLOGY/cultural_pulsation.md`
-- `01_R_THEORY/ARCHAEOLOGY/brain_size_steps.md`
-- `01_R_THEORY/ARCHAEOLOGY/independent_inventions.md`
-- `01_R_THEORY/ARCHAEOLOGY/migration_cold_pressure.md`
-- `01_R_THEORY/ARCHAEOLOGY/death_symbolism.md`
-- `01_R_THEORY/ARCHAEOLOGY/demography_innovation_stabilization.md`
-- `01_R_THEORY/ARCHAEOLOGY/archaeology_falsification_map.md`
-- `02_SYNTAX/VERSIONS/runtime_pipeline_full.md`
-- `02_SYNTAX/VERSIONS/validation_layer_full.md`
-- `02_SYNTAX/VERSIONS/error_architecture_full.md`
-- `02_SYNTAX/VERSIONS/operator_registry_full.md`
-- `02_SYNTAX/VERSIONS/drift_protocol_full.md`
-- `02_SYNTAX/VERSIONS/complexity_passport_full.md`
-- `02_SYNTAX/VERSIONS/portable_syntax_md.md`
-- `02_SYNTAX/VERSIONS/activation_prompt_archive.md`
-- `04_MEAT/CASES/meme_synthesis_cases.md`
-- `04_MEAT/CASES/ritual_metric_read.md`
-- `04_MEAT/CASES/cultural_archetype_metric_read.md`
+- MCCR recovery;
+- EAT archive;
+- M5 / Boundary notes;
+- fire/camp/childhood;
+- sapiens/neanderthals;
+- Q-R3;
+- recursive choice/decoherence;
+- PNA modes and auxiliary files;
+- New Testament / culture instruction cases;
+- SynTax runtime/validation/error/operator/drift/complexity/portable files;
+- MEAT synthesis/ritual/archetype files;
+- Boundary formal hygiene files;
+- R archaeology extensions.
 
 ## Next migration tasks
 
-- Create `06_BOUNDARY_SATURATION/FORMAL_MODEL/analogy_vs_physical_claim.md`.
-- Create `02_SYNTAX/VERSIONS/early_error_classes_archive.md`.
-- Create `03_CULTURE_AS_INSTRUCTIONS/CASES/institution_formation_from_text_ritual.md`.
-- Create `04_MEAT/CASES/concrete_meme_synthesis_examples.md`.
-- Create `05_PNA/VERSIONS/heart_like_regulation_archive.md`.
+- Create `00_META/MIGRATION_COVERAGE_SUMMARY.md`.
+- Create `00_META/SOURCE_VERIFICATION_PLAN.md`.
+- Create `00_META/OPEN_GAPS.md`.
+- Create `03_CULTURE_AS_INSTRUCTIONS/CASES/detailed_mark_episode_index.md`.
+- Create `01_R_THEORY/ARCHAEOLOGY/source_verification_plan.md`.
 
 ---
 
